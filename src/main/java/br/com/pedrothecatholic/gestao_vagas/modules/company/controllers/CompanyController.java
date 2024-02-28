@@ -1,7 +1,7 @@
 package br.com.pedrothecatholic.gestao_vagas.modules.company.controllers;
 
 import br.com.pedrothecatholic.gestao_vagas.modules.company.entities.CompanyEntity;
-import br.com.pedrothecatholic.gestao_vagas.modules.company.useCase.CreateCompanyUseCase;
+import br.com.pedrothecatholic.gestao_vagas.modules.company.useCases.CreateCompanyUseCase;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

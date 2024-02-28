@@ -1,4 +1,4 @@
-package br.com.pedrothecatholic.gestao_vagas.modules.company.useCase;
+package br.com.pedrothecatholic.gestao_vagas.modules.company.useCases;
 
 import br.com.pedrothecatholic.gestao_vagas.modules.company.entities.JobEntity;
 import br.com.pedrothecatholic.gestao_vagas.modules.company.repositories.JobRepository;
