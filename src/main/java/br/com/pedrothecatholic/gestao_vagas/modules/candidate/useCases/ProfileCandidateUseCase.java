@@ -3,6 +3,7 @@ package br.com.pedrothecatholic.gestao_vagas.modules.candidate.useCases;
 import br.com.pedrothecatholic.gestao_vagas.modules.candidate.CandidateRepository;
 import br.com.pedrothecatholic.gestao_vagas.modules.candidate.dto.ProfileCandidateResponseDTO;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.annotation.Bean;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
 
 import java.util.UUID;
