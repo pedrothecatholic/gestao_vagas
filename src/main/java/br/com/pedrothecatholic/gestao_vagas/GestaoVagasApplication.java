@@ -15,5 +15,4 @@ public class GestaoVagasApplication {
     public static void main(String[] args) {
         SpringApplication.run(GestaoVagasApplication.class, args);
     }
-
 }
